@@ -24,12 +24,12 @@ msgstr "Чаканне сігналаў"
 #v1.8.24
 msgctxt "editor_branch_append"
 msgid "Start or merge branches when pointing on top of existing tracks"
-msgstr ""
+msgstr "Пачынаць або аб'ядноўваць галіны пры навядзенні курсора на існуючыя пуці"
 
 #v1.8.24
 msgctxt "editor_tip_add_left3"
 msgid "Left click on length of existing tracks to branch them"
-msgstr ""
+msgstr "ЛКМ па даўжыні існуючых пуцей, каб разгалінаваць іх"
 
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
@@ -39,7 +39,7 @@ msgstr "Утрымлівайце Shift, каб працягнуць стварэ
 #v1.8.24
 msgctxt "line_to3"
 msgid "{0} [{1}] at"
-msgstr ""
+msgstr "{0} [{1}] у"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_disabled"
@@ -169,14 +169,15 @@ msgid "to"
 msgstr "да"
 
 #v1.8.24
+# Вольны пераклад для большай дакладнасці
 msgctxt "train_editable_builtin_tags"
 msgid "Built-in tags:"
-msgstr "Убудаваныя цэтлікі:"
+msgstr "Рэдагаванне цэтлікаў:"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags_locked"
 msgid "Locked by mod"
-msgstr ""
+msgstr "Заблакіравана модам"
 
 #v1.8.24
 msgctxt "train_info_future_pin"
@@ -422,7 +423,7 @@ msgstr "Новыя пасажыры"
 #v1.1.31
 msgctxt "accounting_pax_post"
 msgid "pax"
-msgstr "pax"
+msgstr "пас"
 
 #v1.1.37
 msgctxt "accounting_pax_reached_depot"
@@ -625,7 +626,7 @@ msgstr "Дазволена"
 #v1.1.31
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Забаронена"
+msgstr "Адмоўлена"
 
 #v1.1.31
 msgctxt "acl_friend_action"
@@ -877,7 +878,7 @@ msgstr "Адсочваць крывую пуці"
 #v1.4.15
 msgctxt "building_constraint_draw_layer"
 msgid "Draw depth:"
-msgstr ""
+msgstr "Глыбіня прарысоўкі:"
 
 #v1.4.15
 msgctxt "building_constraint_pick"
@@ -1093,7 +1094,7 @@ msgstr "Мае праекты"
 #v1.1.31
 msgctxt "client_conn_info"
 msgid "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
-msgstr ""
+msgstr "Хост: {0} | {1}мс | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ Байт/с"
 
 #v1.1.37
 msgctxt "client_stream_stats"
@@ -1153,7 +1154,7 @@ msgstr "Адзін або некалькі аб'ектаў у кліпе спа�
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_3"
 msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
-msgstr "Капіраваць з убудаванымі, каб замяніць невядомыя аб'екты на убудаваныя і пазбегнуць імпартавання новых модаў і відаў аб'ектаў у вашу гульню.\n"
+msgstr "Капіраваць з убудаванымі модамі, каб замяніць невядомыя аб'екты на ўбудаваныя і пазбегнуць імпартавання новых модаў і відаў аб'ектаў у вашу гульню.\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_4"
@@ -1253,7 +1254,7 @@ msgstr "Злучэнне..."
 #v1.1.31
 msgctxt "connection_denied"
 msgid "Connection denied"
-msgstr "Злучэнне забаронена"
+msgstr "У злучэнні адмоўлена"
 
 #v1.6.13
 msgctxt "constraint_demote_platforms"
@@ -1263,17 +1264,18 @@ msgstr "Ператварыць у звычайны пуць"
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
-msgstr "Кірунак:"
+msgstr "Напрамак:"
 
 #v1.4.22
 msgctxt "constraint_disp"
 msgid "Displace:"
-msgstr ""
+msgstr "Перамясціць:"
 
 #v1.2.22
+# Маецца на ўвазе напрамак
 msgctxt "constraint_flip"
 msgid "Flip"
-msgstr "Пераварот"
+msgstr "Змяніць"
 
 #v1.5.31
 # Скарочана, бо не ўлазіць у подпіс
@@ -1297,9 +1299,10 @@ msgid "Parallel offset:"
 msgstr "Водступ паралельных:"
 
 #v1.2.22
+# Усё роўна можна выбраць толькі кантрольную кропку, удакладніў гэта
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Выбраць бацькоўскі"
+msgstr "Выбраць бацькоўскую кропку"
 
 #v1.2.22
 msgctxt "constraint_remove"
@@ -1322,9 +1325,10 @@ msgid "Select parent track"
 msgstr "Выбраць бацькоўскі пуць"
 
 #v1.4.15
+# Удакладніў, таму што на гэтай панэлі таксама ёсць налады для платформ
 msgctxt "constraint_straight"
 msgid "Keep straight"
-msgstr "Захаваць прамым"
+msgstr "Трымаць пуць прамым"
 
 #v1.2.22
 msgctxt "constraint_t"
@@ -1334,17 +1338,17 @@ msgstr "Сегмент t (з 0 да 1)"
 #v1.2.22
 msgctxt "constraint_type"
 msgid "Lock control point:"
-msgstr "Замкнуць кантрольную кропку:"
+msgstr "Прымац. кантр. кроп.:"
 
 #v1.2.22
 msgctxt "constraint_type_control_point"
 msgid "To a control point"
-msgstr "На кантрольнай кропцы"
+msgstr "Да кантрольнай кропкі"
 
 #v1.2.22
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
-msgstr "На кропцы пуці"
+msgstr "Да кропкі пуці"
 
 #v1.5.41
 msgctxt "constraint_xform_grid_snap"
@@ -1513,9 +1517,10 @@ msgid "Delete line"
 msgstr "Выдаліць лінію"
 
 #v1.1.72
+# Скарочана, бо не ўлазіць у кнопку
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr "Выдаліць і прадаць цягнікі"
+msgstr "Выд. і прад. цягнікі"
 
 #v1.6.13
 # Скарочана, бо не ўлазіць у подпіс
@@ -1531,7 +1536,7 @@ msgstr "Выдаліць аб'екты"
 #v1.1.31
 msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
-msgstr "{:1.f} pax/с"
+msgstr "{:1.f} пас/с"
 
 #v1.2.29
 msgctxt "depth_layer_n"
@@ -1717,7 +1722,7 @@ msgstr "ЛКМ, каб стварыць галіну"
 #v1.2.22
 msgctxt "editor_tip_branch_mouse"
 msgid "Hover the mouse cursor near an existing track to start a new branch"
-msgstr ""
+msgstr "Навядзіце курсор мышы бліжэй да існуючага пуці, каб пачаць новую галіну"
 
 #v1.2.22
 msgctxt "editor_tip_cont_alt"
@@ -1737,7 +1742,7 @@ msgstr "Esc, каб скасаваць"
 #v1.1.31
 msgctxt "editor_tip_cont_mouse"
 msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
-msgstr ""
+msgstr "Навядзіце курсор мышы бліжэй да краю існуючага пуці, каб паглядзець, як ён будзе выглядаць у сувязі з бягучым пуцём"
 
 #v1.4.15
 msgctxt "editor_tip_copy"
@@ -1822,7 +1827,7 @@ msgstr "Перамясціце курсор мышы прэч, каб скаса
 #v1.2.22
 msgctxt "editor_tip_move_branch_draw"
 msgid "Drag the branch control point near any branchable track to change its position"
-msgstr ""
+msgstr "Перацягніце кантрольную кропку галіны побач з любым разгалінаваным пуцём, каб змяніць яе становішча"
 
 #v1.4.15
 msgctxt "editor_tip_move_building_sizer"
@@ -1932,7 +1937,7 @@ msgstr "Націсніце на пуці, каб склеіць іх у нову
 #v1.6.13
 msgctxt "editor_tip_sat_track_tape_left"
 msgid "Click on tracks to tape them over with new kind and layer of track"
-msgstr ""
+msgstr "Націсніце на пуці, каб склеіць іх у новы від пуці на новым слаі"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
@@ -2017,7 +2022,7 @@ msgstr "Павялічце, каб рэдагаваць"
 #v1.5.31
 msgctxt "editor_warn_closed"
 msgid "Remember to set the service level to passenger service to allow pax to use this line."
-msgstr "Памятайце, што ўзровень сэрвісу павінен быць пасажырскім, каб пасажыры маглі карыстацца гэтай лініяй."
+msgstr "Памятайце, што ўзровень сэрвісу павінен быць «Пасажырскі», каб пасажыры маглі карыстацца гэтай лініяй."
 
 #v1.2.22
 msgctxt "editor_warn_need_train_acc"
@@ -2163,7 +2168,7 @@ msgstr "Дата"
 #v1.7.15
 msgctxt "file_picker_sort_name"
 msgid "Name"
-msgstr "Назва"
+msgstr "Імя"
 
 #v1.7.15
 msgctxt "file_picker_sort_size"
@@ -3200,7 +3205,7 @@ msgstr "Дадатковы час чакання:"
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_all"
 msgid "Evenly on all stops"
-msgstr "Раўнамерны на усіх прыпынках"
+msgstr "Раўнамерны на ўсіх прыпынках"
 
 #v1.5.31
 # Скарочана, каб умясціць у подпіс
@@ -3216,7 +3221,7 @@ msgstr "Адпраўляцца праз:"
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_at_shift"
 msgid "Shift click to also apply the time delta to all following fixed departures"
-msgstr ""
+msgstr "Націсніце з утрыманнем Shift, каб таксама ўжыць гэту розніцу ў часе для ўсіх наступных фіксаваных адпраўленняў"
 
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_desc"
@@ -3498,7 +3503,7 @@ msgstr "Часавы пояс:"
 #v1.5.31
 msgctxt "lineeditor_tz_desc"
 msgid "Time zone of the first train departure time input."
-msgstr ""
+msgstr "Часавы пояс для поля «Адпраўленне першага цягніка»"
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
@@ -3695,7 +3700,7 @@ msgstr "Стаўка (% гадавых):"
 #v1.1.31
 msgctxt "loan_contract_total_interest"
 msgid "{} months interest:"
-msgstr ""
+msgstr "Працэнты за {} месяц(аў):"
 
 #v1.1.31
 msgctxt "loan_contract_years"
@@ -3725,7 +3730,7 @@ msgstr "Заплач. па працэнтам:"
 #v1.1.31
 msgctxt "loan_pay_early"
 msgid "Pay early ${}"
-msgstr "Выплаціць датэрмінова ${}"
+msgstr "Выплаціць ${} датэрмінова"
 
 #v1.1.31
 msgctxt "loan_payments"
@@ -4233,7 +4238,7 @@ msgstr "Дазволіць"
 #v1.1.31
 msgctxt "mp_action_block"
 msgid "Block"
-msgstr "Заблакаваць"
+msgstr "Заблакіраваць"
 
 #v1.1.31
 msgctxt "mp_action_deny"
@@ -4281,6 +4286,7 @@ msgid "Access"
 msgstr "Доступ"
 
 #v1.1.31
+# Вольны пераклад для большай дакладнасці
 msgctxt "mp_info_connected"
 msgid "Connected"
 msgstr "Злучэнні"
@@ -4518,7 +4524,7 @@ msgstr "Экспартаваць даныя ўліку"
 #v1.1.58
 msgctxt "option_company_demand"
 msgid "Pax demand factor:"
-msgstr "Множнік запыту pax:"
+msgstr "Множнік запыту пас.:"
 
 #v1.7.15
 msgctxt "option_company_geo_export"
@@ -4539,7 +4545,7 @@ msgstr "Водст. нов. пар. пуцей:"
 #v1.5.31
 msgctxt "option_company_station_label"
 msgid "New station label:"
-msgstr "Новы подпіс станцыі:"
+msgstr "Подпіс новай станцыі:"
 
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
@@ -4582,7 +4588,7 @@ msgid "Keybinds"
 msgstr "Клавішы"
 
 #v1.1.31
-# Лепей перакласці як "Запампавальнік", але вырашана скараціць да "Мае моды", как умясціць тэкст у кнопку
+# Лепей перакласці як "Запампавальнік", але вырашана скараціць да "Мае моды", каб умясціць тэкст у кнопку
 msgctxt "options_mods_upload"
 msgid "Uploader"
 msgstr "Мае моды"
@@ -4716,12 +4722,12 @@ msgstr "Прыбыць у {}"
 #v1.5.31
 msgctxt "path2_ride"
 msgid "Ride {0} for {1}"
-msgstr ""
+msgstr "Паездка {0} для {1}"
 
 #v1.5.31
 msgctxt "path2_take2"
 msgid " Up to {0} [{1}]"
-msgstr ""
+msgstr " Да {0} [{1}]"
 
 #v1.5.31
 msgctxt "path2_wait_at"
@@ -4731,7 +4737,7 @@ msgstr " Чакае {0} у {1}"
 #v1.5.31
 msgctxt "path2_wait_line2"
 msgid " For the departure of {0} [{1}]"
-msgstr ""
+msgstr " Для адпраўлення {0} [{1}]"
 
 #v1.5.31
 msgctxt "path_not_found_trip"
@@ -4802,7 +4808,7 @@ msgstr ""
 #v1.1.31
 msgctxt "paxlist_n_pax"
 msgid "{} pax"
-msgstr "{} pax"
+msgstr "{} пас"
 
 #v1.5.31
 msgctxt "paxlist_other_win"
@@ -4812,7 +4818,7 @@ msgstr "(акно)"
 #v1.1.58
 msgctxt "paxlist_waiting_pax"
 msgid "Waiting for pax..."
-msgstr "Чакаем pax..."
+msgstr "Чакаем пасажыраў..."
 
 #v1.3.13
 msgctxt "pending_validations"
@@ -5011,7 +5017,7 @@ msgstr "Актывы"
 #v1.1.37
 msgctxt "right_bar_company"
 msgid "Company and accounting"
-msgstr "Кампанія і улік"
+msgstr "Кампанія і ўлік"
 
 #v1.7.15
 msgctxt "right_bar_like"
@@ -5226,7 +5232,7 @@ msgstr "Задавальненне: {:.2f}"
 #v1.2.22
 msgctxt "sax_tooltip2"
 msgid "{0}\nNeutral at {1}, ${2:.2f}"
-msgstr ""
+msgstr "{0}\nНейтральнае ў {1}, ${2:.2f}"
 
 #v1.1.37
 msgctxt "sax_tooltip_new"
@@ -5421,7 +5427,7 @@ msgstr "Запампоўванне здымку экрана {}%"
 #v1.4.15
 msgctxt "show_all_clips"
 msgid "Show saved clipboard clips"
-msgstr ""
+msgstr "Паказаць кліпы, захаваныя ў буферы абмену"
 
 #v1.3.13
 msgctxt "signal_alert_opt_custom"
@@ -5451,7 +5457,7 @@ msgstr "+1"
 #v1.2.22
 msgctxt "signal_direction"
 msgid "Direction:"
-msgstr "Кірунак:"
+msgstr "Напрамак:"
 
 #v1.4.15
 msgctxt "signal_edit_invalid_track"
@@ -5661,7 +5667,7 @@ msgstr "Толькі назва"
 #v1.5.31
 msgctxt "station_label_mode_name_pop"
 msgid "Name and pax"
-msgstr "Назва і pax"
+msgstr "Назва і пас"
 
 #v1.1.31
 msgctxt "station_name_edit"
@@ -5686,7 +5692,7 @@ msgstr "Аўтаматычная назва платформы"
 #v1.6.13
 msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
-msgstr "Ператварыць платформу ў звычайны пуць"
+msgstr "Ператварыць платформу ў пуць"
 
 #v1.4.15
 msgctxt "station_platform_user_name"
@@ -6574,7 +6580,7 @@ msgstr "Фармат: гг:хх:сс\nРаўнамерна размеркава�
 #v1.5.31
 msgctxt "train_group_migrate_but"
 msgid "Set as copiers"
-msgstr ""
+msgstr "Прызначыць капіравальнікамі"
 
 #v1.5.31
 msgctxt "train_group_migrate_line"
@@ -6796,9 +6802,10 @@ msgid "Running cost:"
 msgstr "Эксплуатац. выдаткі:"
 
 #v1.7.15
+# "per km per pax" -> "пас. км" у адпаведнасці з расійскім ОКЕИ
 msgctxt "train_info_running_cost_f2"
 msgid "${0:.2} per km, ${1:.2} per km per pax"
-msgstr "${0:.2} за км, ${1:.2} за пасажыра-кіламетр"
+msgstr "${0:.2} за км, ${1:.2} за пас. км"
 
 #v1.1.31
 msgctxt "train_info_speed"
@@ -7504,7 +7511,7 @@ msgstr "км/г"
 #v1.1.72
 msgctxt "unit_pax"
 msgid "pax"
-msgstr "pax"
+msgstr "пас"
 
 #v1.1.31
 msgctxt "unknown"
@@ -7534,7 +7541,7 @@ msgstr "Запампаваць мод"
 #v1.4.15
 msgctxt "use_placeholders"
 msgid "Copy with built-in"
-msgstr "Капіраваць з убудаванымі"
+msgstr "Капіраваць з убудаванымі модамі"
 
 #v1.1.37
 msgctxt "used_active_mod"
