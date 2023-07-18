@@ -1,271 +1,318 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.8.24
-msgctxt "accounting_trains_collisions"
-msgid "Collisions"
-msgstr "Сутыкненні"
-
-#v1.8.24
-msgctxt "accounting_trains_extra_stop_time"
-msgid "Extra stop"
-msgstr "Дадатковы час прыпынку"
-
-#v1.8.24
-msgctxt "accounting_trains_late_arrival_time"
-msgid "Late arrival >10s"
-msgstr "Спазненне >10с"
-
-#v1.8.24
-msgctxt "accounting_trains_signal_stop_time"
-msgid "Signal wait"
-msgstr "Чаканне сігналаў"
-
-#v1.8.24
-msgctxt "editor_branch_append"
-msgid "Start or merge branches when pointing on top of existing tracks"
-msgstr "Пачынаць або аб'ядноўваць галіны пры навядзенні курсора на існуючыя пуці"
-
-#v1.8.24
-msgctxt "editor_tip_add_left3"
-msgid "Left click on length of existing tracks to branch them"
-msgstr "ЛКМ па даўжыні існуючых пуцей, каб разгалінаваць іх"
-
-#v1.8.24
-msgctxt "editor_tip_cont_left_s1"
-msgid "Hold Shift to keep creating more segments."
-msgstr "Утрымлівайце Shift, каб працягнуць стварэнне сегментаў."
-
-#v1.8.24
-msgctxt "line_to3"
-msgid "{0} [{1}] at"
-msgstr "{0} [{1}] у"
-
-#v1.8.24
-msgctxt "lineeditor_display_in_map_disabled"
-msgid "Disabled"
-msgstr "Адключана"
-
-#v1.8.24
-msgctxt "lineeditor_display_in_map_loop"
-msgid "Loop"
-msgstr "Пятля"
-
-#v1.8.24
-# Не літаральна, але адпавядае кантэксту
-msgctxt "lineeditor_display_in_map_nonloop"
-msgid "Non-loop"
-msgstr "Лінія"
-
-#v1.8.24
-msgctxt "lineeditor_max_accel"
-msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Макс. паскарэнне (ms⁻²):"
-
-#v1.8.24
-msgctxt "lineeditor_max_accel_desc"
-msgid "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
-msgstr "Верхняя мяжа паскарэння цягніка. Фактычнае паскарэнне можа быць менш у залежнасці ад цягавага намагання цягніка."
-
-#v1.8.24
-# Без скарачэння не ўлазіць
-msgctxt "lineeditor_max_brake"
-msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Макс. тармаж. (ms⁻²):"
-
-#v1.8.24
-msgctxt "lineeditor_max_brake_desc"
-msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
-msgstr "Верхняя мяжа тармажэння цягніка. Фактычнае тармажэнне можа быць менш у залежнасці ад характарыстык цягніка."
-
-#v1.8.24
-msgctxt "lineeditor_stop_arrive"
-msgid "Arrive at:"
-msgstr "Прыбываць праз:"
-
-#v1.8.24
-msgctxt "realtime"
-msgid "Realtime"
-msgstr "Рэальны час"
-
-#v1.8.24
-msgctxt "rtstat_creation"
-msgid "Creation date"
-msgstr "Дата стварэння"
-
-#v1.8.24
-msgctxt "share_home_listing"
-msgid "Browse {} shared games"
-msgstr "Агляд {} абагуленых гульняў"
-
-#v1.8.24
-msgctxt "signal_check_hit_occ"
-msgid "Occupied by {}"
-msgstr "Заняты {}"
-
-#v1.8.24
-msgctxt "signal_check_hit_res"
-msgid "Reserved by {}"
-msgstr "Забраніраваны {}"
-
-#v1.8.24
-msgctxt "signal_warn_ignored"
-msgid "Ignored"
-msgstr "Ігнаруецца"
-
-#v1.8.24
-msgctxt "signal_warn_ignored_plat_desc"
-msgid "One way signals at platform dead ends are ignored"
-msgstr "Сігналы аднабаковага руху ў тупіках платформ ігнаруюцца"
-
-#v1.8.24
-msgctxt "signal_warn_max_length_desc"
-msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "Блок-участак, абмежаваны гэтым сігналам, занадта доўгі. Устаўце больш такіх сігналаў, як еўрабаліза (мяжа блок-участка), каб зрабіць яго карацей."
-
-#v1.8.24
-msgctxt "signal_warn_too_close_desc"
-msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr "Сігнал на гэтым пуці размешчаны занадта блізка да другога пуці. Перамясціце яго далей ад пуцей, якія перакрываюць адзін аднаго."
-
-#v1.8.24
-msgctxt "stop_times_tp_arrival"
-msgid "Stop {} arrival"
-msgstr "Прыбыццё на прыпынак {}"
-
-#v1.8.24
-msgctxt "stop_times_tp_departure"
-msgid "Stop {} departure"
-msgstr "Адпраўленне з прыпынку {}"
-
-#v1.8.24
-msgctxt "stop_times_tp_leg"
-msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
-msgstr "Рух па перагону {0} ▶ {1}"
-
-#v1.8.24
-msgctxt "teo.append_continous"
-msgid "Continously append track segments until pressing Esc or merging/linking the track"
-msgstr "Бесперапынна дадаваць сегменты пуці да націскання Esc або да аб'яднання/звязвання пуцей"
-
-#v1.8.24
-msgctxt "track_info_name"
-msgid "Name:"
-msgstr "Назва:"
-
-#v1.8.24
-msgctxt "train_car_append_tp"
-msgid "Shift clicking cars in the listing directly appends them"
-msgstr "Націсканне на вагоны ў спісе з утрыманнем Shift адразу дадае іх"
-
-#v1.8.24
-msgctxt "train_departing_to"
-msgid "Departing to"
-msgstr "Адпраўляецца да"
-
-#v1.8.24
-msgctxt "train_departing_to_connect"
-msgid "to"
-msgstr "да"
-
-#v1.8.24
-# Вольны пераклад для большай дакладнасці
-msgctxt "train_editable_builtin_tags"
-msgid "Built-in tags:"
-msgstr "Рэдагаванне цэтлікаў:"
-
-#v1.8.24
-msgctxt "train_editable_builtin_tags_locked"
-msgid "Locked by mod"
-msgstr "Заблакіравана модам"
-
-#v1.8.24
-msgctxt "train_info_future_pin"
-msgid "Scroll map to train spawn position"
-msgstr "Прагартаць карту да становішча спараджэння цягніка"
-
-#v1.8.24
-msgctxt "train_info_late_predicted2"
-msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Прыбл. спазняецца на {0}, {1:.1f} км з {2:.1f} км"
-
-#v1.8.24
-msgctxt "train_info_max_accel"
-msgid "Max acceleration:"
-msgstr "Макс. паскарэнне:"
-
-#v1.8.24
-msgctxt "train_info_max_accel_v"
-msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
-msgstr "{0:.2f} ms⁻², тарм. з {1:.2f} ms⁻² да {2:.2f} ms⁻²"
-
-#v1.8.24
-msgctxt "train_info_total_power_v"
-msgid "{0} kW, {1} kN max tr. eff."
+#v1.9.17
+msgctxt "alerts_pause_game_only_0_delay"
+msgid "Only if delay is 0"
 msgstr ""
 
-#v1.8.24
-msgctxt "train_intervene_group"
-msgid "Intervene group"
-msgstr "Умяшацца ў рух групы"
-
-#v1.8.24
-msgctxt "train_list_filter_alert_only_waiting_spawn"
-msgid "Only waiting to spawn"
-msgstr "Толькі чакае спараджэння"
-
-#v1.8.24
-msgctxt "train_list_filter_alert_waiting_spawn"
-msgid "Waiting spawn"
-msgstr "Чакае спараджэння"
-
-#v1.8.24
-msgctxt "train_rt_late"
-msgid "Est. lateness (s)"
-msgstr "Прыбл. спазненне (с)"
-
-#v1.8.24
-msgctxt "train_rt_leg"
-msgid "Remaining leg (m)"
+#v1.9.17
+msgctxt "assets_live_update"
+msgid "Live updates"
 msgstr ""
 
-#v1.8.24
-msgctxt "train_rt_speed"
-msgid "Speed (km/h)"
-msgstr "Хуткасць (км/г)"
+#v1.9.17
+msgctxt "built_bill"
+msgid "Built objects report"
+msgstr ""
+
+#v1.9.17
+msgctxt "constraint_offset2_add"
+msgid "Add"
+msgstr "+"
+
+#v1.9.17
+msgctxt "constraint_offset2_mul"
+msgid "Mul"
+msgstr "*"
+
+#v1.9.17
+msgctxt "constraint_offset2_set"
+msgid "Set"
+msgstr "="
+
+#v1.9.17
+msgctxt "constraint_platforms"
+msgid "Platforms:"
+msgstr ""
+
+#v1.9.17
+msgctxt "constraint_platforms_demote"
+msgid "Demote"
+msgstr ""
+
+#v1.9.17
+msgctxt "constraint_platforms_promote"
+msgid "Promote"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_grp_destination"
+msgid "Destination"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_grp_line"
+msgid "Line"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_grp_next_stop"
+msgid "Next stop"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_grp_train"
+msgid "Train"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_late"
+msgid "Max late"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_sched"
+msgid "Scheduled"
+msgstr ""
+
+#v1.9.17
+msgctxt "destinations"
+msgid "Destinations"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_sel_only_buildings"
+msgid "Keep only buildings in the selection"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_sel_only_child_tracks"
+msgid "Keep only parallel child tracks in the selection"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_sel_only_parent_tracks"
+msgid "Keep only parallel parent tracks in the selection"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_sel_only_tracks"
+msgid "Keep only tracks in the selection"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_shapemode_full"
+msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_shapemode_limited"
+msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tangent_fix"
+msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tangent_interp"
+msgid "Interpolate tangent: average previous track and current track tangents"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_click"
+msgid "Click to cancel"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_dbl_click"
+msgid "Double click to cancel"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tip_cont_undo"
+msgid "Ctrl-Z to undo last track node"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tip_tangent_left"
+msgid "Release left button to stop rotating the track tangent"
+msgstr ""
+
+#v1.9.17
+msgctxt "file_picker_corrupted"
+msgid "Corrupted file"
+msgstr ""
+
+#v1.9.17
+msgctxt "kb_track_sat_platform_tape"
+msgid "Tracks: platform tape"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_s1"
+msgid "Click on tracks to add a new secondary stop point"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_title"
+msgid "Selecting secondary signal"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_basic"
+msgid "Click on station platform arrows to change the stop platform"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_s1"
+msgid "Click on tracks to change stop point"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_title"
+msgid "Changing stop point"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_basic"
+msgid "Click on station platform arrows to create new line stops"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_s1"
+msgid "Click on tracks to set the stop point"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_title"
+msgid "Creating new stop"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_facing_tip"
+msgid "Move the mouse to select the facing direction of the train, then click to confirm"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_new_alt_stop_basic"
+msgid "Click on station platform arrows to create a new secondary platform stop"
+msgstr ""
+
+#v1.9.17
+msgctxt "loader_legacy_rebuild_19"
+msgid "Rebuilding pre-1.9 tracks"
+msgstr ""
+
+#v1.9.17
+msgctxt "node_mode"
+msgid "Node mode:"
+msgstr ""
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching"
+msgid "Pax board trains:"
+msgstr ""
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching_line_stop"
+msgid "Matching line and stop"
+msgstr ""
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching_train_run_line_stop"
+msgid "Matching train, run, line and stop"
+msgstr ""
+
+#v1.9.17
+msgctxt "refresh_built_report"
+msgid "Refresh built objects report"
+msgstr ""
+
+#v1.9.17
+msgctxt "report_no_built"
+msgid "There are no built objects"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary"
+msgid "Reset boundary"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary_radius"
+msgid "Reset for radius:"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary_radius_tip"
+msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary_tan"
+msgid "Reset boundary to middle point"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_tangent"
+msgid "Reset tangent"
+msgstr ""
+
+#v1.9.17
+msgctxt "shape_mode"
+msgid "Tangent track shapes:"
+msgstr ""
+
+#v1.9.17
+msgctxt "shape_mode_full"
+msgid "Full"
+msgstr ""
+
+#v1.9.17
+msgctxt "shape_mode_limited"
+msgid "Limited"
+msgstr ""
+
+#v1.9.17
+msgctxt "station_platform_promote"
+msgid "Promote track into platform"
+msgstr ""
+
+#v1.9.17
+msgctxt "stop_picker_adv"
+msgid "Advanced mode"
+msgstr ""
+
+#v1.9.17
+msgctxt "stop_picker_basic"
+msgid "Basic mode"
+msgstr ""
+
+#v1.9.17
+msgctxt "trackmode_point"
+msgid "Point mode"
+msgstr ""
+
+#v1.9.17
+msgctxt "trackmode_tangent"
+msgid "Tangent mode"
+msgstr ""
+
+#v1.9.17
+msgctxt "warn_straight"
+msgid "Requires exactly 2 tracks"
+msgstr ""
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.8.24
-msgctxt "accounting_trains_stop_time"
-msgid "Scheduled stop"
-msgstr "Запланаваны прыпынак"
-
-#v1.8.24
-msgctxt "editor_tip_add_left1"
-msgid "Left click on the end of track control points to continue an existing track"
-msgstr "ЛКМ па кантрольнай кропцы ў канцы пуці, каб працягнуць яго"
-
-#v1.8.24
-msgctxt "editor_tip_cont_left"
-msgid "Left click to create a new track segment."
-msgstr "ЛКМ, каб стварыць новы сегмент пуці."
-
-#v1.8.24
-msgctxt "kb_track_branch"
-msgid "Tracks: allow branching"
-msgstr "Пуці: дазволіць галінаванне"
-
-#v1.8.24
-msgctxt "line_warn_custom_duration_too_short"
-msgid "Custom line duration is too short and it is ignored"
-msgstr "Карыстальніцкая працягласць лініі ігнаруецца, бо яна занадта кароткая"
-
-#v1.8.24
-msgctxt "sort_sep_real_time"
-msgid "--- Realtime ---"
-msgstr "--- Рэальны час ---"
+#v1.9.17
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
+msgstr "Версія гульні, у якой быў створаны гэты файл захавання, занадта старая, таму ён не можа быць загружаны. Паспрабуйце састарэлыя галіны v1.5 у Steam."
 
 # ----------------------------------------------------------
 # unmodified strings
@@ -552,15 +599,30 @@ msgctxt "accounting_trains"
 msgid "Trains"
 msgstr "Цягнікі"
 
+#v1.8.24
+msgctxt "accounting_trains_collisions"
+msgid "Collisions"
+msgstr "Сутыкненні"
+
 #v1.7.15
 msgctxt "accounting_trains_departure"
 msgid "Departures"
 msgstr "Адпраўленні"
 
+#v1.8.24
+msgctxt "accounting_trains_extra_stop_time"
+msgid "Extra stop"
+msgstr "Дадатковы час прыпынку"
+
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
 msgstr "Умяшанні ў рух"
+
+#v1.8.24
+msgctxt "accounting_trains_late_arrival_time"
+msgid "Late arrival >10s"
+msgstr "Спазненне >10с"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
@@ -591,6 +653,16 @@ msgstr "Час курсіравання"
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
 msgstr "Продажы цягнікоў"
+
+#v1.8.24
+msgctxt "accounting_trains_signal_stop_time"
+msgid "Signal wait"
+msgstr "Чаканне сігналаў"
+
+#v1.8.24
+msgctxt "accounting_trains_stop_time"
+msgid "Scheduled stop"
+msgstr "Запланаваны прыпынак"
 
 #v1.1.72
 # Дазволіў больш вольны пераклад для большай дакладнасці
@@ -1256,11 +1328,6 @@ msgctxt "connection_denied"
 msgid "Connection denied"
 msgstr "У злучэнні адмоўлена"
 
-#v1.6.13
-msgctxt "constraint_demote_platforms"
-msgid "Demote into normal track"
-msgstr "Ператварыць у звычайны пуць"
-
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
@@ -1603,6 +1670,11 @@ msgctxt "editor_add"
 msgid "Append to tracks or create new ones"
 msgstr "Дадаць пуці або стварыць новыя"
 
+#v1.8.24
+msgctxt "editor_branch_append"
+msgid "Start or merge branches when pointing on top of existing tracks"
+msgstr "Пачынаць або аб'ядноўваць галіны пры навядзенні курсора на існуючыя пуці"
+
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
@@ -1649,11 +1721,6 @@ msgid "Parallel track tape"
 msgstr "Прыклеіць паралельны пуць"
 
 #v1.6.13
-msgctxt "editor_sat_platform_tape"
-msgid "Station platform tape"
-msgstr "Прыклеіць платформу да станцыі"
-
-#v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
 msgstr "Ператварыць пуці ў платформу станцыі"
@@ -1668,31 +1735,11 @@ msgctxt "editor_sat_track_tape"
 msgid "Track tape"
 msgstr "Прыклеіць пуць"
 
-#v1.5.41
-msgctxt "editor_select_add_platform"
-msgid "Click platform names in stations to add stops to the line"
-msgstr "Націсніце на назвы платформ на станцыях, каб дадаць прыпынкі да лініі"
-
-#v1.1.31
-msgctxt "editor_select_add_waypoint"
-msgid "Click track segments to add waypoints to the line"
-msgstr "Націсніце на сегменты пуцей, каб дадаць пункты маршруту да лініі"
-
 #v1.5.31
 # Наўмысна прапусціў пераклад "controls", не ведаю як гэта перакласці і пераклад не занадта патрэбны
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
 msgstr "Націсніце на сігнал шляху, каб зрабіць яго пабочным для прыпынку"
-
-#v1.5.41
-msgctxt "editor_select_alt_stop"
-msgid "Click platform names in stations to add a secondary platform to the stop"
-msgstr "Націсніце на назвы платформ на станцыях, каб дадаць пабочныя платформы да прыпынкаў"
-
-#v1.5.41
-msgctxt "editor_select_change_platform"
-msgid "Click platform names in stations to change the stop main platform"
-msgstr "Націсніце на назвы платформ на станцыях, каб змяніць галоўныя платформы прыпынкаў"
 
 #v1.6.13
 msgctxt "editor_station"
@@ -1704,10 +1751,20 @@ msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
 msgstr "Esc, каб перайсці ў рэжым рэдагавання"
 
+#v1.8.24
+msgctxt "editor_tip_add_left1"
+msgid "Left click on the end of track control points to continue an existing track"
+msgstr "ЛКМ па кантрольнай кропцы ў канцы пуці, каб працягнуць яго"
+
 #v1.1.31
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
 msgstr "ЛКМ у любым іншым месцы, каб стварыць новы пуць"
+
+#v1.8.24
+msgctxt "editor_tip_add_left3"
+msgid "Left click on length of existing tracks to branch them"
+msgstr "ЛКМ па даўжыні існуючых пуцей, каб разгалінаваць іх"
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
@@ -1738,6 +1795,16 @@ msgstr "Утрымлівайце Ctrl, каб выраўнаваць пуць а
 msgctxt "editor_tip_cont_esc"
 msgid "Esc to cancel"
 msgstr "Esc, каб скасаваць"
+
+#v1.8.24
+msgctxt "editor_tip_cont_left"
+msgid "Left click to create a new track segment."
+msgstr "ЛКМ, каб стварыць новы сегмент пуці."
+
+#v1.8.24
+msgctxt "editor_tip_cont_left_s1"
+msgid "Hold Shift to keep creating more segments."
+msgstr "Утрымлівайце Shift, каб працягнуць стварэнне сегментаў."
 
 #v1.1.31
 msgctxt "editor_tip_cont_mouse"
@@ -2109,11 +2176,6 @@ msgstr "Унутраная памылка пры захаванні гульні
 msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
 msgstr "Версія гульні ({}.{}.{}.{}), у якой быў створаны гэты файл захавання, навейшая за версію вашай гульні ({}.{}.{}.{}). Абнавіце гульню, каб загрузіць гэты файл."
-
-#v1.1.37
-msgctxt "error_too_old_save"
-msgid "The game version that created this save file is too old and it cannot be loaded. Try the older v1.1 legacy branches in Steam."
-msgstr "Версія гульні, у якой быў створаны гэты файл захавання, занадта старая, таму ён не можа быць загружаны. Паспрабуйце састарэлыя галіны v1.1 у Steam."
 
 #v1.1.31
 msgctxt "error_writing_file"
@@ -2772,6 +2834,11 @@ msgctxt "kb_track_2x"
 msgid "Tracks: double tracks"
 msgstr "Пуці: рэжым падвойных пуцей"
 
+#v1.8.24
+msgctxt "kb_track_branch"
+msgid "Tracks: allow branching"
+msgstr "Пуці: дазволіць галінаванне"
+
 #v1.4.15
 msgctxt "kb_track_building"
 msgid "Tracks: new building"
@@ -2828,11 +2895,6 @@ msgstr "Пуці: прыклейванне парал. пуцей"
 msgctxt "kb_track_sat_split"
 msgid "Tracks: split"
 msgstr "Пуці: падзяліць"
-
-#v1.6.13
-msgctxt "kb_track_sat_station_tape"
-msgid "Tracks: station tape"
-msgstr "Пуці: прыклейванне станцый"
 
 #v1.6.13
 msgctxt "kb_track_sat_track_tape"
@@ -2899,11 +2961,6 @@ msgstr "Лінія закрыта"
 msgctxt "line_alert_invalid_legs"
 msgid "Contains invalid path(s)"
 msgstr "Змяшчае недапушчальны(я) шлях(і)"
-
-#v1.5.31
-msgctxt "line_editor_tip_zoom_pick"
-msgid "Zoom in to pick"
-msgstr "Павялічце, каб выбраць"
 
 #v1.1.31
 msgctxt "line_error_no_path_between_stops"
@@ -2995,6 +3052,16 @@ msgstr "Прыпынкі"
 msgctxt "line_timetable"
 msgid "Timetable"
 msgstr "Расклад"
+
+#v1.8.24
+msgctxt "line_to3"
+msgid "{0} [{1}] at"
+msgstr "{0} [{1}] у"
+
+#v1.8.24
+msgctxt "line_warn_custom_duration_too_short"
+msgid "Custom line duration is too short and it is ignored"
+msgstr "Карыстальніцкая працягласць лініі ігнаруецца, бо яна занадта кароткая"
 
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
@@ -3156,6 +3223,22 @@ msgctxt "lineeditor_display_in_map"
 msgid "Display in map:"
 msgstr "Адлюстр. на карце:"
 
+#v1.8.24
+msgctxt "lineeditor_display_in_map_disabled"
+msgid "Disabled"
+msgstr "Адключана"
+
+#v1.8.24
+msgctxt "lineeditor_display_in_map_loop"
+msgid "Loop"
+msgstr "Пятля"
+
+#v1.8.24
+# Не літаральна, але адпавядае кантэксту
+msgctxt "lineeditor_display_in_map_nonloop"
+msgid "Non-loop"
+msgstr "Лінія"
+
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
@@ -3310,6 +3393,27 @@ msgctxt "lineeditor_manual_interval"
 msgid "Manual interval:"
 msgstr "Ручны інтэрвал:"
 
+#v1.8.24
+msgctxt "lineeditor_max_accel"
+msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "Макс. паскарэнне (ms⁻²):"
+
+#v1.8.24
+msgctxt "lineeditor_max_accel_desc"
+msgid "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
+msgstr "Верхняя мяжа паскарэння цягніка. Фактычнае паскарэнне можа быць менш у залежнасці ад цягавага намагання цягніка."
+
+#v1.8.24
+# Без скарачэння не ўлазіць
+msgctxt "lineeditor_max_brake"
+msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "Макс. тармаж. (ms⁻²):"
+
+#v1.8.24
+msgctxt "lineeditor_max_brake_desc"
+msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
+msgstr "Верхняя мяжа тармажэння цягніка. Фактычнае тармажэнне можа быць менш у залежнасці ад характарыстык цягніка."
+
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
@@ -3374,6 +3478,11 @@ msgstr "Тэхнічныя манеўры"
 msgctxt "lineeditor_service_of"
 msgid "Service of:"
 msgstr "З'яўляецца сэрвісам лініі:"
+
+#v1.8.24
+msgctxt "lineeditor_stop_arrive"
+msgid "Arrive at:"
+msgstr "Прыбываць праз:"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode"
@@ -4969,6 +5078,11 @@ msgctxt "quit_game"
 msgid "Quit game"
 msgstr "Выйсці з гульні"
 
+#v1.8.24
+msgctxt "realtime"
+msgid "Realtime"
+msgstr "Рэальны час"
+
 #v1.1.37
 msgctxt "rename_save"
 msgid "Rename and save"
@@ -5058,6 +5172,11 @@ msgstr "Цэтлікі"
 msgctxt "rtstat_coverage"
 msgid "Coverage"
 msgstr "Пакрыццё"
+
+#v1.8.24
+msgctxt "rtstat_creation"
+msgid "Creation date"
+msgstr "Дата стварэння"
 
 #v1.5.41
 msgctxt "rtstat_leg_late"
@@ -5389,6 +5508,11 @@ msgctxt "share_home_click_load"
 msgid "Click to load game"
 msgstr "Націсніце, каб загрузіць гульню"
 
+#v1.8.24
+msgctxt "share_home_listing"
+msgid "Browse {} shared games"
+msgstr "Агляд {} абагуленых гульняў"
+
 #v1.7.15
 msgctxt "share_listing"
 msgid "Listing slots"
@@ -5443,6 +5567,16 @@ msgstr "Аднолькавы час чакання ў якасці глабал�
 msgctxt "signal_alert_opts"
 msgid "Alert on:"
 msgstr "Абвясціць калі:"
+
+#v1.8.24
+msgctxt "signal_check_hit_occ"
+msgid "Occupied by {}"
+msgstr "Заняты {}"
+
+#v1.8.24
+msgctxt "signal_check_hit_res"
+msgid "Reserved by {}"
+msgstr "Забраніраваны {}"
 
 #v1.2.22
 msgctxt "signal_dir_m1"
@@ -5604,10 +5738,30 @@ msgctxt "signal_type"
 msgid "Type:"
 msgstr "Тып:"
 
+#v1.8.24
+msgctxt "signal_warn_ignored"
+msgid "Ignored"
+msgstr "Ігнаруецца"
+
+#v1.8.24
+msgctxt "signal_warn_ignored_plat_desc"
+msgid "One way signals at platform dead ends are ignored"
+msgstr "Сігналы аднабаковага руху ў тупіках платформ ігнаруюцца"
+
+#v1.8.24
+msgctxt "signal_warn_max_length_desc"
+msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr "Блок-участак, абмежаваны гэтым сігналам, занадта доўгі. Устаўце больш такіх сігналаў, як еўрабаліза (мяжа блок-участка), каб зрабіць яго карацей."
+
 #v1.3.13
 msgctxt "signal_warn_too_close"
 msgid "Too close"
 msgstr "Занадта блізка"
+
+#v1.8.24
+msgctxt "signal_warn_too_close_desc"
+msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
+msgstr "Сігнал на гэтым пуці размешчаны занадта блізка да другога пуці. Перамясціце яго далей ад пуцей, якія перакрываюць адзін аднаго."
 
 #v1.1.31
 msgctxt "single_player"
@@ -5618,6 +5772,11 @@ msgstr "Адзіночная гульня"
 msgctxt "sort_sep_accounting"
 msgid "--- Accounting ---"
 msgstr "--- Улік ---"
+
+#v1.8.24
+msgctxt "sort_sep_real_time"
+msgid "--- Realtime ---"
+msgstr "--- Рэальны час ---"
 
 #v1.5.31
 msgctxt "stale_run"
@@ -5743,6 +5902,21 @@ msgstr "{0}м пры {1} км/г сяр."
 msgctxt "stop_leg_l"
 msgid "{0}m"
 msgstr "{0}м"
+
+#v1.8.24
+msgctxt "stop_times_tp_arrival"
+msgid "Stop {} arrival"
+msgstr "Прыбыццё на прыпынак {}"
+
+#v1.8.24
+msgctxt "stop_times_tp_departure"
+msgid "Stop {} departure"
+msgstr "Адпраўленне з прыпынку {}"
+
+#v1.8.24
+msgctxt "stop_times_tp_leg"
+msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
+msgstr "Рух па перагону {0} ▶ {1}"
 
 #v1.7.15
 msgctxt "stop_times_tp_wait"
@@ -6205,6 +6379,11 @@ msgctxt "tape_warn_too_long"
 msgid "Too long"
 msgstr "Занадта доўгі"
 
+#v1.8.24
+msgctxt "teo.append_continous"
+msgid "Continously append track segments until pressing Esc or merging/linking the track"
+msgstr "Бесперапынна дадаваць сегменты пуці да націскання Esc або да аб'яднання/звязвання пуцей"
+
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
 msgid "Drive on left for double platforms"
@@ -6314,6 +6493,11 @@ msgstr "Макс. хуткасць:"
 msgctxt "track_info_multi"
 msgid "Multiple selection"
 msgstr "Выбар некалькіх"
+
+#v1.8.24
+msgctxt "track_info_name"
+msgid "Name:"
+msgstr "Назва:"
 
 #v1.2.29
 msgctxt "track_info_price"
@@ -6431,6 +6615,11 @@ msgctxt "train_car_append_listing_cursor"
 msgid "Append here"
 msgstr "Дадаць сюды"
 
+#v1.8.24
+msgctxt "train_car_append_tp"
+msgid "Shift clicking cars in the listing directly appends them"
+msgstr "Націсканне на вагоны ў спісе з утрыманнем Shift адразу дадае іх"
+
 #v1.7.15
 msgctxt "train_car_base_color_edit"
 msgid "Base color:"
@@ -6520,6 +6709,27 @@ msgstr "Выбраць дэкаль"
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
 msgstr "Выкарыстоўваць колер лініі"
+
+#v1.8.24
+msgctxt "train_departing_to"
+msgid "Departing to"
+msgstr "Адпраўляецца да"
+
+#v1.8.24
+msgctxt "train_departing_to_connect"
+msgid "to"
+msgstr "да"
+
+#v1.8.24
+# Вольны пераклад для большай дакладнасці
+msgctxt "train_editable_builtin_tags"
+msgid "Built-in tags:"
+msgstr "Рэдагаванне цэтлікаў:"
+
+#v1.8.24
+msgctxt "train_editable_builtin_tags_locked"
+msgid "Locked by mod"
+msgstr "Заблакіравана модам"
 
 #v1.5.31
 msgctxt "train_editor_basics"
@@ -6723,10 +6933,20 @@ msgctxt "train_info_empty_mass"
 msgid "Empty mass:"
 msgstr "Маса пустога:"
 
+#v1.8.24
+msgctxt "train_info_future_pin"
+msgid "Scroll map to train spawn position"
+msgstr "Прагартаць карту да становішча спараджэння цягніка"
+
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
 msgstr "Спазняецца на {0}, {1:.1f} км з {2:.1f} км"
+
+#v1.8.24
+msgctxt "train_info_late_predicted2"
+msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
+msgstr "Прыбл. спазняецца на {0}, {1:.1f} км з {2:.1f} км"
 
 #v1.1.31
 msgctxt "train_info_line"
@@ -6752,6 +6972,16 @@ msgstr "${} штодзень"
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
 msgstr "Маса / маса пустога:"
+
+#v1.8.24
+msgctxt "train_info_max_accel"
+msgid "Max acceleration:"
+msgstr "Макс. паскарэнне:"
+
+#v1.8.24
+msgctxt "train_info_max_accel_v"
+msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
+msgstr "{0:.2f} ms⁻², тарм. з {1:.2f} ms⁻² да {2:.2f} ms⁻²"
 
 #v1.1.31
 # Без скарачэння не ўлазіць
@@ -6872,6 +7102,16 @@ msgctxt "train_info_total_power"
 msgid "Total power:"
 msgstr "Агульная магутнасць:"
 
+#v1.8.24
+msgctxt "train_info_total_power_v"
+msgid "{0} kW, {1} kN max tr. eff."
+msgstr ""
+
+#v1.8.24
+msgctxt "train_intervene_group"
+msgid "Intervene group"
+msgstr "Умяшацца ў рух групы"
+
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
@@ -6897,6 +7137,11 @@ msgctxt "train_list_filter_alert_only_stale"
 msgid "Only stale"
 msgstr "Толькі з састарэлымі рэйсамі"
 
+#v1.8.24
+msgctxt "train_list_filter_alert_only_waiting_spawn"
+msgid "Only waiting to spawn"
+msgstr "Толькі чакае спараджэння"
+
 #v1.7.15
 msgctxt "train_list_filter_alert_only_warning"
 msgid "Only with warnings"
@@ -6911,6 +7156,11 @@ msgstr "Папярэджанні"
 msgctxt "train_list_filter_alert_stale"
 msgid "Stale"
 msgstr "Састарэлы рэйс"
+
+#v1.8.24
+msgctxt "train_list_filter_alert_waiting_spawn"
+msgid "Waiting spawn"
+msgstr "Чакае спараджэння"
 
 #v1.5.31
 msgctxt "train_list_filter_all"
@@ -7138,6 +7388,21 @@ msgstr "Усяго зваротаў грошай:"
 msgctxt "train_replace"
 msgid "Replace"
 msgstr "Замяніць"
+
+#v1.8.24
+msgctxt "train_rt_late"
+msgid "Est. lateness (s)"
+msgstr "Прыбл. спазненне (с)"
+
+#v1.8.24
+msgctxt "train_rt_leg"
+msgid "Remaining leg (m)"
+msgstr ""
+
+#v1.8.24
+msgctxt "train_rt_speed"
+msgid "Speed (km/h)"
+msgstr "Хуткасць (км/г)"
 
 #v1.5.31
 msgctxt "train_run"
