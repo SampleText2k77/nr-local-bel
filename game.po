@@ -1,318 +1,253 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.9.17
-msgctxt "alerts_pause_game_only_0_delay"
-msgid "Only if delay is 0"
+#v1.10.16
+msgctxt "all"
+msgid "All"
 msgstr ""
 
-#v1.9.17
-msgctxt "assets_live_update"
-msgid "Live updates"
+#v1.10.16
+msgctxt "error_cannot_delete_save"
+msgid "Cannot delete old save for overwriting: "
 msgstr ""
 
-#v1.9.17
-msgctxt "built_bill"
-msgid "Built objects report"
+#v1.10.16
+msgctxt "error_cannot_open_temp_file"
+msgid "Cannot open temporary file: "
 msgstr ""
 
-#v1.9.17
-msgctxt "constraint_offset2_add"
-msgid "Add"
-msgstr "+"
-
-#v1.9.17
-msgctxt "constraint_offset2_mul"
-msgid "Mul"
-msgstr "*"
-
-#v1.9.17
-msgctxt "constraint_offset2_set"
-msgid "Set"
-msgstr "="
-
-#v1.9.17
-msgctxt "constraint_platforms"
-msgid "Platforms:"
+#v1.10.16
+msgctxt "error_cannot_rename_save"
+msgid "Cannot rename temporary file: {} into {} "
 msgstr ""
 
-#v1.9.17
-msgctxt "constraint_platforms_demote"
-msgid "Demote"
+#v1.10.16
+msgctxt "kb_track_pick_parent"
+msgid "Tracks: pick par. parent"
 msgstr ""
 
-#v1.9.17
-msgctxt "constraint_platforms_promote"
-msgid "Promote"
+#v1.10.16
+msgctxt "lineeditor_restrict_lines_map"
+msgid "Restrict listing to visible lines on map (approximately)"
 msgstr ""
 
-#v1.9.17
-msgctxt "dep_grp_destination"
-msgid "Destination"
+#v1.10.16
+msgctxt "map_hillshade_pos"
+msgid "Hillshading:"
 msgstr ""
 
-#v1.9.17
-msgctxt "dep_grp_line"
-msgid "Line"
+#v1.10.16
+msgctxt "map_hillshade_pos_0"
+msgid "Under ground"
 msgstr ""
 
-#v1.9.17
-msgctxt "dep_grp_next_stop"
-msgid "Next stop"
+#v1.10.16
+msgctxt "map_hillshade_pos_1"
+msgid "Over ground"
 msgstr ""
 
-#v1.9.17
-msgctxt "dep_grp_train"
-msgid "Train"
+#v1.10.16
+msgctxt "map_land_alpha"
+msgid "Land background mix:"
 msgstr ""
 
-#v1.9.17
-msgctxt "dep_late"
-msgid "Max late"
+#v1.10.16
+msgctxt "map_land_hsv_sat"
+msgid "Land HSV saturation:"
 msgstr ""
 
-#v1.9.17
-msgctxt "dep_sched"
-msgid "Scheduled"
+#v1.10.16
+msgctxt "map_option_font"
+msgid "Label font size:"
 msgstr ""
 
-#v1.9.17
-msgctxt "destinations"
-msgid "Destinations"
+#v1.10.16
+msgctxt "map_option_font_0"
+msgid "Small"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_sel_only_buildings"
-msgid "Keep only buildings in the selection"
+#v1.10.16
+msgctxt "map_option_font_1"
+msgid "Default"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_sel_only_child_tracks"
-msgid "Keep only parallel child tracks in the selection"
+#v1.10.16
+msgctxt "map_option_font_2"
+msgid "Big"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_sel_only_parent_tracks"
-msgid "Keep only parallel parent tracks in the selection"
+#v1.10.16
+msgctxt "map_option_font_3"
+msgid "Huge"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_sel_only_tracks"
-msgid "Keep only tracks in the selection"
+#v1.10.16
+msgctxt "map_show_land_tex_max_zoom"
+msgid "Show land texture at max zoom"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_shapemode_full"
-msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
+#v1.10.16
+msgctxt "map_style_mods"
+msgid "Map style mods"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_shapemode_limited"
-msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
+#v1.10.16
+msgctxt "map_style_show_in_panel"
+msgid "Show in map options panel"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_tangent_fix"
-msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
+#v1.10.16
+msgctxt "mod_less_prio"
+msgid "Less priority"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_tangent_interp"
-msgid "Interpolate tangent: average previous track and current track tangents"
+#v1.10.16
+msgctxt "mod_more_prio"
+msgid "More priority"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_tip_cont_cancel_click"
-msgid "Click to cancel"
+#v1.10.16
+msgctxt "mvo_toggle_map_style_mods"
+msgid "Map style mods:"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_tip_cont_cancel_dbl_click"
-msgid "Double click to cancel"
+#v1.10.16
+msgctxt "mvo_track_editor_always_on_top"
+msgid "Track editor always on top"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_tip_cont_undo"
-msgid "Ctrl-Z to undo last track node"
+#v1.10.16
+msgctxt "mvo_user_track_depth_bridge"
+msgid "Map bridges over track layers"
 msgstr ""
 
-#v1.9.17
-msgctxt "editor_tip_tangent_left"
-msgid "Release left button to stop rotating the track tangent"
+#v1.10.16
+msgctxt "option_company_pax_train_matching_strict"
+msgid "If same line, within the run"
 msgstr ""
 
-#v1.9.17
-msgctxt "file_picker_corrupted"
-msgid "Corrupted file"
+#v1.10.16
+msgctxt "option_company_pax_train_matching_train_pf"
+msgid "Any, bounded by leg time"
 msgstr ""
 
-#v1.9.17
-msgctxt "kb_track_sat_platform_tape"
-msgid "Tracks: platform tape"
+#v1.10.16
+msgctxt "options_alerts"
+msgid "Alerts"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_adding_sec_stop_s1"
-msgid "Click on tracks to add a new secondary stop point"
+#v1.10.16
+msgctxt "options_autosave"
+msgid "Autosave"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_adding_sec_stop_title"
-msgid "Selecting secondary signal"
+#v1.10.16
+msgctxt "options_interface"
+msgid "Interface"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_basic"
-msgid "Click on station platform arrows to change the stop platform"
+#v1.10.16
+msgctxt "options_map"
+msgid "Map"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_s1"
-msgid "Click on tracks to change stop point"
+#v1.10.16
+msgctxt "osm_admin_level_11"
+msgid "Neighborhood"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_title"
-msgid "Changing stop point"
+#v1.10.16
+msgctxt "poi_settlement_0"
+msgid "Capital"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_basic"
-msgid "Click on station platform arrows to create new line stops"
+#v1.10.16
+msgctxt "poi_settlement_1"
+msgid "City"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_s1"
-msgid "Click on tracks to set the stop point"
+#v1.10.16
+msgctxt "poi_settlement_2"
+msgid "Town"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_title"
-msgid "Creating new stop"
+#v1.10.16
+msgctxt "poi_settlement_3"
+msgid "Suburb"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_facing_tip"
-msgid "Move the mouse to select the facing direction of the train, then click to confirm"
+#v1.10.16
+msgctxt "poi_settlement_4"
+msgid "Quarter"
 msgstr ""
 
-#v1.9.17
-msgctxt "lineeditor_new_alt_stop_basic"
-msgid "Click on station platform arrows to create a new secondary platform stop"
+#v1.10.16
+msgctxt "poi_settlement_5"
+msgid "Neighbourhood"
 msgstr ""
 
-#v1.9.17
-msgctxt "loader_legacy_rebuild_19"
-msgid "Rebuilding pre-1.9 tracks"
+#v1.10.16
+msgctxt "poi_settlement_6"
+msgid "Village"
 msgstr ""
 
-#v1.9.17
-msgctxt "node_mode"
-msgid "Node mode:"
+#v1.10.16
+msgctxt "poi_settlement_7"
+msgid "Hamlet"
 msgstr ""
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching"
-msgid "Pax board trains:"
+#v1.10.16
+msgctxt "poi_settlement_8"
+msgid "Dwelling"
 msgstr ""
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching_line_stop"
-msgid "Matching line and stop"
+#v1.10.16
+msgctxt "poi_settlement_9"
+msgid "Farm"
 msgstr ""
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching_train_run_line_stop"
-msgid "Matching train, run, line and stop"
+#v1.10.16
+msgctxt "renderer_dx12"
+msgid "DirectX 12"
+msgstr "DirectX 12"
+
+#v1.10.16
+msgctxt "renderer_vulkan"
+msgid "Vulkan"
 msgstr ""
 
-#v1.9.17
-msgctxt "refresh_built_report"
-msgid "Refresh built objects report"
+#v1.10.16
+msgctxt "station_platform_set_name_all"
+msgid "All"
 msgstr ""
 
-#v1.9.17
-msgctxt "report_no_built"
-msgid "There are no built objects"
+#v1.10.16
+msgctxt "timing_lines_n"
+msgid "Timing line legs, {} to go"
 msgstr ""
 
-#v1.9.17
-msgctxt "reset_boundary"
-msgid "Reset boundary"
+#v1.10.16
+msgctxt "trackeditor_clickable_tracks"
+msgid "Clickable tracks"
 msgstr ""
 
-#v1.9.17
-msgctxt "reset_boundary_radius"
-msgid "Reset for radius:"
-msgstr ""
-
-#v1.9.17
-msgctxt "reset_boundary_radius_tip"
-msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
-msgstr ""
-
-#v1.9.17
-msgctxt "reset_boundary_tan"
-msgid "Reset boundary to middle point"
-msgstr ""
-
-#v1.9.17
-msgctxt "reset_tangent"
-msgid "Reset tangent"
-msgstr ""
-
-#v1.9.17
-msgctxt "shape_mode"
-msgid "Tangent track shapes:"
-msgstr ""
-
-#v1.9.17
-msgctxt "shape_mode_full"
-msgid "Full"
-msgstr ""
-
-#v1.9.17
-msgctxt "shape_mode_limited"
-msgid "Limited"
-msgstr ""
-
-#v1.9.17
-msgctxt "station_platform_promote"
-msgid "Promote track into platform"
-msgstr ""
-
-#v1.9.17
-msgctxt "stop_picker_adv"
-msgid "Advanced mode"
-msgstr ""
-
-#v1.9.17
-msgctxt "stop_picker_basic"
-msgid "Basic mode"
-msgstr ""
-
-#v1.9.17
-msgctxt "trackmode_point"
-msgid "Point mode"
-msgstr ""
-
-#v1.9.17
-msgctxt "trackmode_tangent"
-msgid "Tangent mode"
-msgstr ""
-
-#v1.9.17
-msgctxt "warn_straight"
-msgid "Requires exactly 2 tracks"
+#v1.10.16
+msgctxt "warn_alpha_renderer1"
+msgid "Experimental renderer! Only use if DirectX 11 crashes often."
 msgstr ""
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.9.17
-msgctxt "error_too_old_save"
-msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
-msgstr "Версія гульні, у якой быў створаны гэты файл захавання, занадта старая, таму ён не можа быць загружаны. Паспрабуйце састарэлыя галіны v1.5 у Steam."
+#v1.10.16
+msgctxt "mvo_user_track_depth"
+msgid "Map over track layers"
+msgstr ""
+
+#v1.10.16
+msgctxt "option_company_pax_train_matching"
+msgid "Board alternate trains:"
+msgstr ""
 
 # ----------------------------------------------------------
 # unmodified strings
@@ -736,6 +671,11 @@ msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
 msgstr "Нават на самай высокай хуткасці"
 
+#v1.9.17
+msgctxt "alerts_pause_game_only_0_delay"
+msgid "Only if delay is 0"
+msgstr ""
+
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
@@ -755,6 +695,11 @@ msgstr "Станцыі"
 msgctxt "asset_trains"
 msgid "Trains"
 msgstr "Цягнікі"
+
+#v1.9.17
+msgctxt "assets_live_update"
+msgid "Live updates"
+msgstr ""
 
 #v1.5.41
 msgctxt "auto_clone"
@@ -1077,6 +1022,11 @@ msgctxt "buildings_total"
 msgid "Buildings total"
 msgstr "Усяго будынкаў"
 
+#v1.9.17
+msgctxt "built_bill"
+msgid "Built objects report"
+msgstr ""
+
 #v1.5.31
 # Без скарачэння не ўлазіць
 msgctxt "bulk_keep_straight"
@@ -1365,11 +1315,41 @@ msgctxt "constraint_offset2"
 msgid "Parallel offset:"
 msgstr "Водступ паралельных:"
 
+#v1.9.17
+msgctxt "constraint_offset2_add"
+msgid "Add"
+msgstr "+"
+
+#v1.9.17
+msgctxt "constraint_offset2_mul"
+msgid "Mul"
+msgstr "*"
+
+#v1.9.17
+msgctxt "constraint_offset2_set"
+msgid "Set"
+msgstr "="
+
 #v1.2.22
 # Усё роўна можна выбраць толькі кантрольную кропку, удакладніў гэта
 msgctxt "constraint_pick"
 msgid "Pick parent"
 msgstr "Выбраць бацькоўскую кропку"
+
+#v1.9.17
+msgctxt "constraint_platforms"
+msgid "Platforms:"
+msgstr ""
+
+#v1.9.17
+msgctxt "constraint_platforms_demote"
+msgid "Demote"
+msgstr ""
+
+#v1.9.17
+msgctxt "constraint_platforms_promote"
+msgid "Promote"
+msgstr ""
 
 #v1.2.22
 msgctxt "constraint_remove"
@@ -1518,16 +1498,6 @@ msgid "%d crossings"
 msgstr "%d перасячэнняў"
 
 #v1.1.31
-msgctxt "custom_admin_level_poi"
-msgid "POI"
-msgstr ""
-
-#v1.1.31
-msgctxt "custom_admin_level_transport"
-msgid "Transportation"
-msgstr "Перавозка"
-
-#v1.1.31
 # Скарочана, бо не ўлазіць
 msgctxt "default_han_font"
 msgid "Default Han font:"
@@ -1605,6 +1575,36 @@ msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
 msgstr "{:1.f} пас/с"
 
+#v1.9.17
+msgctxt "dep_grp_destination"
+msgid "Destination"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_grp_line"
+msgid "Line"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_grp_next_stop"
+msgid "Next stop"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_grp_train"
+msgid "Train"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_late"
+msgid "Max late"
+msgstr ""
+
+#v1.9.17
+msgctxt "dep_sched"
+msgid "Scheduled"
+msgstr ""
+
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
@@ -1614,6 +1614,11 @@ msgstr "Глыбіня {}"
 msgctxt "description"
 msgid "Description:"
 msgstr "Апісанне:"
+
+#v1.9.17
+msgctxt "destinations"
+msgid "Destinations"
+msgstr ""
 
 #v1.1.31
 msgctxt "disabled"
@@ -1735,16 +1740,56 @@ msgctxt "editor_sat_track_tape"
 msgid "Track tape"
 msgstr "Прыклеіць пуць"
 
+#v1.9.17
+msgctxt "editor_sel_only_buildings"
+msgid "Keep only buildings in the selection"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_sel_only_child_tracks"
+msgid "Keep only parallel child tracks in the selection"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_sel_only_parent_tracks"
+msgid "Keep only parallel parent tracks in the selection"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_sel_only_tracks"
+msgid "Keep only tracks in the selection"
+msgstr ""
+
 #v1.5.31
 # Наўмысна прапусціў пераклад "controls", не ведаю як гэта перакласці і пераклад не занадта патрэбны
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
 msgstr "Націсніце на сігнал шляху, каб зрабіць яго пабочным для прыпынку"
 
+#v1.9.17
+msgctxt "editor_shapemode_full"
+msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_shapemode_limited"
+msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
+msgstr ""
+
 #v1.6.13
 msgctxt "editor_station"
 msgid "Create stations"
 msgstr "Стварыць станцыі"
+
+#v1.9.17
+msgctxt "editor_tangent_fix"
+msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tangent_interp"
+msgid "Interpolate tangent: average previous track and current track tangents"
+msgstr ""
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -1786,6 +1831,16 @@ msgctxt "editor_tip_cont_alt"
 msgid "Alt to toggle the parallel track side"
 msgstr "Alt, каб пераключыць бок паралельных пуцей"
 
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_click"
+msgid "Click to cancel"
+msgstr ""
+
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_dbl_click"
+msgid "Double click to cancel"
+msgstr ""
+
 #v1.2.29
 msgctxt "editor_tip_cont_ctrl"
 msgid "Hold Ctrl to line up track with its previous track segment."
@@ -1810,6 +1865,11 @@ msgstr "Утрымлівайце Shift, каб працягнуць стварэ
 msgctxt "editor_tip_cont_mouse"
 msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
 msgstr "Навядзіце курсор мышы бліжэй да краю існуючага пуці, каб паглядзець, як ён будзе выглядаць у сувязі з бягучым пуцём"
+
+#v1.9.17
+msgctxt "editor_tip_cont_undo"
+msgid "Ctrl-Z to undo last track node"
+msgstr ""
 
 #v1.4.15
 msgctxt "editor_tip_copy"
@@ -2071,6 +2131,11 @@ msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
 msgstr "ЛКМ, каб стварыць новую платформу станцыі"
 
+#v1.9.17
+msgctxt "editor_tip_tangent_left"
+msgid "Release left button to stop rotating the track tangent"
+msgstr ""
+
 #v1.1.31
 msgctxt "editor_tip_undo"
 msgid "Ctrl-Z to undo the last edit"
@@ -2177,6 +2242,11 @@ msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
 msgstr "Версія гульні ({}.{}.{}.{}), у якой быў створаны гэты файл захавання, навейшая за версію вашай гульні ({}.{}.{}.{}). Абнавіце гульню, каб загрузіць гэты файл."
 
+#v1.9.17
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
+msgstr "Версія гульні, у якой быў створаны гэты файл захавання, занадта старая, таму ён не можа быць загружаны. Паспрабуйце састарэлыя галіны v1.5 у Steam."
+
 #v1.1.31
 msgctxt "error_writing_file"
 msgid "Error writing to file"
@@ -2201,6 +2271,11 @@ msgstr "Занадта кароткі час прыпынку і/або цягн
 msgctxt "file_picker_company"
 msgid "Company:"
 msgstr "Кампанія:"
+
+#v1.9.17
+msgctxt "file_picker_corrupted"
+msgid "Corrupted file"
+msgstr ""
 
 #v1.1.37
 msgctxt "file_picker_date"
@@ -2891,6 +2966,11 @@ msgctxt "kb_track_sat_parallel_tape"
 msgid "Tracks: parallel tape"
 msgstr "Пуці: прыклейванне парал. пуцей"
 
+#v1.9.17
+msgctxt "kb_track_sat_platform_tape"
+msgid "Tracks: platform tape"
+msgstr ""
+
 #v1.6.13
 msgctxt "kb_track_sat_split"
 msgid "Tracks: split"
@@ -3073,6 +3153,16 @@ msgctxt "line_warn_unachievable_fixed_departure"
 msgid "One or more fixed departure stops are unachievable"
 msgstr "Адзін або некалькі фіксаваных прыпынкаў для адпраўлення недасяжны"
 
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_s1"
+msgid "Click on tracks to add a new secondary stop point"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_title"
+msgid "Selecting secondary signal"
+msgstr ""
+
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
@@ -3139,6 +3229,21 @@ msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
 msgstr "Пабудуйце праект вашых пуцей, каб уключыць гэту платформу"
 
+#v1.9.17
+msgctxt "lineeditor_change_stop_basic"
+msgid "Click on station platform arrows to change the stop platform"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_s1"
+msgid "Click on tracks to change stop point"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_title"
+msgid "Changing stop point"
+msgstr ""
+
 #v1.5.41
 msgctxt "lineeditor_clone_parent"
 msgid "Stop properties:"
@@ -3163,6 +3268,21 @@ msgstr "Код:"
 msgctxt "lineeditor_color"
 msgid "Color:"
 msgstr "Колер:"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_basic"
+msgid "Click on station platform arrows to create new line stops"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_s1"
+msgid "Click on tracks to set the stop point"
+msgstr ""
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_title"
+msgid "Creating new stop"
+msgstr ""
 
 #v1.2.22
 # Скарочана, бо не ўмяшчаецца ў подпіс
@@ -3295,6 +3415,11 @@ msgstr "Раўнамерны на ўсіх прыпынках"
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
 msgstr "На ўручную выбраных прып."
+
+#v1.9.17
+msgctxt "lineeditor_facing_tip"
+msgid "Move the mouse to select the facing direction of the train, then click to confirm"
+msgstr ""
 
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_at"
@@ -3433,6 +3558,11 @@ msgstr "Зрушыць і маштабаваць выгляд пры выбар�
 msgctxt "lineeditor_name"
 msgid "Name:"
 msgstr "Назва:"
+
+#v1.9.17
+msgctxt "lineeditor_new_alt_stop_basic"
+msgid "Click on station platform arrows to create a new secondary platform stop"
+msgstr ""
 
 #v1.1.31
 msgctxt "lineeditor_price_base"
@@ -3720,6 +3850,11 @@ msgstr "Завяршэнне"
 msgctxt "loader_http_error"
 msgid "Error downloading shared game file"
 msgstr "Памылка пры спампаванні файла абагуленай гульні"
+
+#v1.9.17
+msgctxt "loader_legacy_rebuild_19"
+msgid "Rebuilding pre-1.9 tracks"
+msgstr ""
 
 #v1.6.13
 msgctxt "loader_loading_db"
@@ -4520,11 +4655,6 @@ msgctxt "mvo_user_station_names"
 msgid "Station names"
 msgstr "Назвы станцый"
 
-#v1.4.15
-msgctxt "mvo_user_track_depth"
-msgid "Tunnels under roads"
-msgstr "Тунэлі пад дарогамі"
-
 #v1.1.37
 msgctxt "mvo_user_train_counters"
 msgid "Train counters"
@@ -4534,11 +4664,6 @@ msgstr "Лічыльнікі цягнікоў"
 msgctxt "mvo_user_train_icons"
 msgid "Train icons"
 msgstr "Значкі цягнікоў"
-
-#v1.1.37
-msgctxt "mvo_user_zoom_out_tracks"
-msgid "Zoomed out tracks"
-msgstr ""
 
 #v1.4.22
 msgctxt "my_collection"
@@ -4604,6 +4729,11 @@ msgstr "Не хапае грошай, каб пабудаваць праект. 
 msgctxt "no_line_header"
 msgid "<No line>"
 msgstr "<Няма лініі>"
+
+#v1.9.17
+msgctxt "node_mode"
+msgid "Node mode:"
+msgstr ""
 
 #v1.1.31
 msgctxt "ok"
@@ -4680,11 +4810,6 @@ msgstr "Неабмежаваная счэпка"
 msgctxt "options"
 msgid "Options"
 msgstr "Параметры"
-
-#v1.1.31
-msgctxt "options_general"
-msgid "General"
-msgstr "Агульныя"
 
 #v1.1.31
 msgctxt "options_graphics"
@@ -5083,6 +5208,11 @@ msgctxt "realtime"
 msgid "Realtime"
 msgstr "Рэальны час"
 
+#v1.9.17
+msgctxt "refresh_built_report"
+msgid "Refresh built objects report"
+msgstr ""
+
 #v1.1.37
 msgctxt "rename_save"
 msgid "Rename and save"
@@ -5098,15 +5228,40 @@ msgctxt "renderer_dx11"
 msgid "DirectX 11"
 msgstr "DirectX 11"
 
-#v1.2.29
-msgctxt "renderer_opengl"
-msgid "OpenGL 3.3"
-msgstr "OpenGL 3.3"
-
 #v1.7.15
 msgctxt "replace_trains"
 msgid "Replace existing train(s)"
 msgstr "Замяніць існуючы(я) цягнік(і)"
+
+#v1.9.17
+msgctxt "report_no_built"
+msgid "There are no built objects"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary"
+msgid "Reset boundary"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary_radius"
+msgid "Reset for radius:"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary_radius_tip"
+msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_boundary_tan"
+msgid "Reset boundary to middle point"
+msgstr ""
+
+#v1.9.17
+msgctxt "reset_tangent"
+msgid "Reset tangent"
+msgstr ""
 
 #v1.1.31
 msgctxt "reset_train"
@@ -5413,6 +5568,21 @@ msgctxt "settings"
 msgid "Settings"
 msgstr "Налады"
 
+#v1.9.17
+msgctxt "shape_mode"
+msgid "Tangent track shapes:"
+msgstr ""
+
+#v1.9.17
+msgctxt "shape_mode_full"
+msgid "Full"
+msgstr ""
+
+#v1.9.17
+msgctxt "shape_mode_limited"
+msgid "Limited"
+msgstr ""
+
 #v1.7.15
 msgctxt "share_deleting"
 msgid "Deleting slot"
@@ -5534,19 +5704,9 @@ msgid "< Loading... >"
 msgstr "< Загрузка... >"
 
 #v1.7.15
-msgctxt "share_upload_map_preview"
-msgid "Uploading map preview {}%"
-msgstr "Запампоўванне перадпрагляду карты {}%"
-
-#v1.7.15
 msgctxt "share_upload_save"
 msgid "Uploading saved game {}%"
 msgstr "Запампоўванне захаванай гульні {}%"
-
-#v1.7.15
-msgctxt "share_upload_screenshot"
-msgid "Uploading screenshot {}%"
-msgstr "Запампоўванне здымку экрана {}%"
 
 #v1.4.15
 msgctxt "show_all_clips"
@@ -5853,6 +6013,11 @@ msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
 msgstr "Ператварыць платформу ў пуць"
 
+#v1.9.17
+msgctxt "station_platform_promote"
+msgid "Promote track into platform"
+msgstr ""
+
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
@@ -5902,6 +6067,16 @@ msgstr "{0}м пры {1} км/г сяр."
 msgctxt "stop_leg_l"
 msgid "{0}m"
 msgstr "{0}м"
+
+#v1.9.17
+msgctxt "stop_picker_adv"
+msgid "Advanced mode"
+msgstr ""
+
+#v1.9.17
+msgctxt "stop_picker_basic"
+msgid "Basic mode"
+msgstr ""
 
 #v1.8.24
 msgctxt "stop_times_tp_arrival"
@@ -6554,6 +6729,16 @@ msgstr "Хаваць кантрольныя кропцы пры аддаленн
 msgctxt "trackeditor_hold_keybinds"
 msgid "Track tool keybind hold mode"
 msgstr "Утрыманне клавіш інструментаў"
+
+#v1.9.17
+msgctxt "trackmode_point"
+msgid "Point mode"
+msgstr ""
+
+#v1.9.17
+msgctxt "trackmode_tangent"
+msgid "Tangent mode"
+msgstr ""
 
 #v1.4.15
 msgctxt "tracks_total"
@@ -7842,6 +8027,11 @@ msgstr "Тэрмін дзеяння скончыўся"
 msgctxt "warn_mod_in_use"
 msgid "Mod is in use"
 msgstr "Мод выкарыстоўваецца"
+
+#v1.9.17
+msgctxt "warn_straight"
+msgid "Requires exactly 2 tracks"
+msgstr ""
 
 #v1.2.29
 msgctxt "waw_track_hs_1_name"
